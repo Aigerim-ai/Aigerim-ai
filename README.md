@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Software development projects
+- 🔭 I’m currently working on cool projects
 - 📈 I'm currently learning Python, AI
 - 💬 Ask me about Typescript, Javascript
 - 📫 How to reach me: aigerim.suleimenova27@gmail.com
